@@ -28,6 +28,8 @@ public class main {
         System.out.println(format);
         System.out.println(format1);
 
+        System.out.println(date1);
+
        // System.out.println(date1+ "   "+ date2);
 
 //        Date d1 = df.parse("2020-01-01 00:00:00");
